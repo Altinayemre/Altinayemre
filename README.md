@@ -1,6 +1,6 @@
-### Hi there 👋
+
 ```markdown
-* I'm Emre,
+* Hi there, 👋 I'm Emre
 * I completed my undergraduate education in Osmaniye Korkut Ata University, Department of Management Information Systems in 2021.
 * I completed my military service as a reserve officer in Muhabere, Electronic Information Systems (MEBS) Barracks Mamak/Ankara.
 * I enjoy discovering and learning new technologies. At this stage, being a good software developer is among my goals.
