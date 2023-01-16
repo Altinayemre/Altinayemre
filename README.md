@@ -5,9 +5,9 @@
 * I enjoy discovering and learning new technologies. At this stage, being a good software developer is among my goals.
 ```
 
-🔭 I’m currently working on java 
+🔭 I’m currently working on java and sub-technologies
                                    
-🌱 I’m currently learning clean code
+🌱 I’m currently learning clean code and design patterns
 
 📫 How to reach me: 
 
