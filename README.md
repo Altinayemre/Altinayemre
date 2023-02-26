@@ -9,7 +9,7 @@
                                    
 🌱 I’m currently learning clean code and design patterns
 
-📫 How to reach me: 
+📫 How to reach me: [emre_altinay@hotmail.com](emre_altinay@hotmail.com)
 
 [![](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrealtinay/)
  
