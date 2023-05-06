@@ -1,4 +1,4 @@
-## Hi 👋, I'm Emre 
+### Hi 👋, I'm Emre 
 ___
 ```markdown
 * I completed my undergraduate education in Osmaniye Korkut Ata University, Department of Management Information Systems in 2021.
@@ -6,11 +6,11 @@ ___
 * I enjoy discovering and learning new technologies. At this stage, being a good software developer is among my goals.
 ```
 ___
-🔭 I’m currently working on java and sub-technologies.
+🔭 _I’m currently working on java and sub-technologies._
                                    
-🌱 I’m currently learning microservice, clean code and design patterns.
+🌱 _I’m currently learning microservice, clean code and design patterns._
 
-📫 How to reach me: emre_altinay@hotmail.com || emre_altinay@outlook.com
+📫 _How to reach me: emre_altinay@hotmail.com || emre_altinay@outlook.com_
 ___
 [![](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrealtinay/)
 
