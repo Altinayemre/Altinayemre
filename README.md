@@ -21,7 +21,7 @@ ___
 
 <div align="center">
 <a href="">  
-
+<img height="180em" alt="Emre's Github Stats" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=altinayemre&langs_count=8&layout=compact&theme=react&bg_color=0D1117"/>
 </a>
 </div>
 
