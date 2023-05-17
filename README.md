@@ -1,8 +1,12 @@
-<h1 align="center"> Hi There!  I'm Emre </h1> 
+<h3 align="center"> Hi There!  I'm Emre </h3> 
+
+___
 
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=87CEEB&center=true&lines=Today+is+a+good+day+to+write+code+:)'/>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=FFFFFF&center=true&lines=Today+is+a+good+day+to+write+code+:)'/>
 </div>
+
+___
 
 <h3 align="center"> About me </h3>
 
@@ -22,7 +26,7 @@ ___
 
 <div align="center">
 <a href="">  
-<img height="160em" alt="Emre's Github Stats" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=altinayemre&langs_count=8&layout=compact&theme=react&bg_color=0D1117"/>
+<img height="160em" alt="Emre's Github Stats" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=altinayemre&langs_count=8&layout=compact&theme=react&bg_color=0D1116"/>
 </a>
 </div>
 
