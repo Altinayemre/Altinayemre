@@ -4,7 +4,8 @@
 <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=87CEEB&center=true&lines=Today+is+a+good+day+to+write+code+:)'/>
 </div>
 
-___
+<h3 align="center"> About me </h3>
+
 ```markdown
 * I completed my undergraduate education in Osmaniye Korkut Ata University, Department of Management Information Systems in 2021.
 * I completed my military service as a reserve officer in Muhabere, Electronic Information Systems (MEBS) Barracks Mamak/Ankara.
